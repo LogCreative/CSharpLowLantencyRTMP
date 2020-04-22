@@ -1,4 +1,4 @@
-# CSharpLowLantencyRTMP
+# CSharpLowLatencyRTMP
 C#视频示例
 
 演示C#如何调用ffmpeg API
